@@ -1,0 +1,44 @@
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/appsettings.Development.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/appsettings.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.deps.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.runtimeconfig.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.runtimeconfig.dev.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.dll
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/ref/First Web App.dll
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.pdb
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.Views.dll
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/First Web App.Views.pdb
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.csproj.AssemblyReference.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.AssemblyInfoInputs.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.AssemblyInfo.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.csproj.CoreCompileInputs.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.MvcApplicationPartsAssemblyInfo.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.RazorAssemblyInfo.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.RazorAssemblyInfo.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/staticwebassets/First Web App.StaticWebAssets.Manifest.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/staticwebassets/First Web App.StaticWebAssets.xml
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/scopedcss/bundle/First Web App.styles.css
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.TagHelpers.input.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.TagHelpers.output.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.RazorCoreGenerate.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.RazorTargetAssemblyInfo.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.RazorTargetAssemblyInfo.cs
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.Views.pdb
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.dll
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/ref/First Web App.dll
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.pdb
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.genruntimeconfig.cache
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/obj/Debug/net5.0/First Web App.csproj.CopyComplete
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/publish/web.config
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/publish/appsettings.Development.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/publish/appsettings.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/publish/First Web App.deps.json
+/Users/jotheeswaran.gthoughtworks.com/Desktop/Azure-204/First Web App/bin/Debug/net5.0/publish/First Web App.runtimeconfig.json

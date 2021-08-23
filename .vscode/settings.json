@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8b83906-4c91-4461-b2b3-a226d823657a/resourceGroups/test_resource_group/providers/Microsoft.Web/sites/RolePlayGame12",
+    "appService.deploySubpath": "publish"
+}
